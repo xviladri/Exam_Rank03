@@ -1,4 +1,4 @@
-ft_printf
+ft_printf                                                                                                 
 Expected files   : ft_printf.c
 Allowed functions: malloc, free, write, va_start, va_arg, va_copy, va_end
 --------------------------------------------------------------------------------
@@ -26,7 +26,7 @@ out: Hexadecimal for 42 is 2a$
 Obs: Your function must not have memory leaks. Moulinette will test that.
 
 
-get_next_line
+get_next_line                                                                       
 Expected files : get_next_line.c, get_next_line.h 
 Allowed functions: read, free, malloc
 --------------------------------------------------------------------------------
